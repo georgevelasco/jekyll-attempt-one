@@ -1,1 +1,8 @@
-theme: minima
+title: Jorge Webpage
+description: Welcome
+theme: just-the-docs
+
+url: https://georgevelasco.github.io/jorgevelasco
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/georgevelasco/jorgevelasco.github.io
